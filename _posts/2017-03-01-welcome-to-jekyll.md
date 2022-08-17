@@ -27,7 +27,7 @@ Hello! I am Jiasu Wang, a PhD student in Applied Mathematics at University of Ca
 
 - Research Assistant, Department of Electrical and Computer Engineering, Unviersity of Waterloo
   - Jul. 2018 - Oct. 2018
-  - Host professor: Prof. [Sebastian Fischmeister] (https://uwaterloo.ca/electrical-computer-engineering/profile/sfischme/)
+  - Host professor: Prof. Sebastian Fischmeister
 
 
 ## Screenshots
