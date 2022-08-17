@@ -1,85 +1,30 @@
 ---
-title:  "Markdown examples"
-layout: post
+title:  "Research"
+layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
-
-
-## Heading Two (h2)
-
-### Heading Three (h3)
-
-#### Heading Four (h4)
-
-##### Heading Five (h5)
-
-###### Heading Six (h6)
+I am currently working on problems related to quantum signal processing, which can be used to design efficient quantum
+circuit for performing a wide range of computational tasks on quantum computers.
 
 
-## Blockquotes
+## Publication and Preprints
 
-### Single line
+- Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation, submitted
+  - [arXiv:2205.01141](https://arxiv.org/abs/2205.01141)
+  - Dong An, Di Fang, Stephen Jordan, Jin-Peng Liu, Guang Hao Low, Jiasu Wang
 
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
+- On the energy landscape of symmetric quantum signal processing, submitted
+  - [arXiv:2110.04993](https://arxiv.org/abs/2110.04993)
+  - Jiasu Wang, Yulong Dong, Lin Lin
 
-### Multiline
+- Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance, Quantum 
+  - [Quantum 5, 481 (2021)](https://quantum-journal.org/papers/q-2021-06-24-481/)
+  - Dong An, Noah Linden, Jin-Peng Liu, Ashley Montanaro, Changpeng Shao, Jiasu Wang
 
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
->
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
->
-> – _Hal Incandenza_
+## Presentations
 
-## Horizontal Rule
+- SIAM-LA21 minisymposium “Quantum Numerical Linear Algebra”, May 2021
+  - Title: Energy Landscape of Optimizing Symmetric PhaseFactors in Quantum Signal Processing, talk 
 
----
-
-## Table
-
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
-
-## Code
-
-Source code can be included by fencing the code with three backticks. Syntax highlighting works automatically when specifying the language after the backticks.
-
-````
-```javascript
-function foo () {
-    return "bar";
-}
-```
-````
-
-This would be rendered as:
-
-```javascript
-function foo () {
-    return "bar";
-}
-```
-
-## Lists
-
-### Unordered
-
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
-
-### Ordered
-
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
+- Quantum information processing (QIP), March 2022
+  - Title: On the energy landscape of symmetric quantum signal processing, poster
