@@ -4,22 +4,15 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## About Me
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Hello! I am Jiasu Wang, a PhD student in Applied Mathematics at University of California, Berkeley. I got my BS in Mathematics and Applied Mathematics from University of Science and Technology of China (USTC) in 2019. My supvisor is Prof.[Lin Lin](https://math.berkeley.edu/~linlin/)
 
-## Features
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+
+## Eduation
+
+ - University of California, Berkeley Aug. 2019 -- Present
 
 ## Based on
 
