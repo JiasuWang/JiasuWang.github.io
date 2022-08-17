@@ -1,9 +1,13 @@
 ---
-title: "Welcome to Jekyll"
-layout: post
+title: "About me"
+layout: page
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello! I am Jiasu Wang, a PhD student in Applied Mathematics at University of California, Berkeley. I got my BS in Mathematics and Applied Mathematics from University of Science and Technology of China (USTC) in 2019. My supvisor is Prof. [Lin Lin] (https://math.berkeley.edu/~linlin/).
+
+## Eduation
+
+ - University of California, Berkeley Aug. 2019 -- Present
 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
