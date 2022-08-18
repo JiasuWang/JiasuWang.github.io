@@ -17,9 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
-  - {file: "about_me.md", title: "About"}
-  - {file: "research.md", title: "Research"}
-  - {file: "more.md", title: "More"}
+  - {file: "README.md", title: "About"}
+  - {file: "README.md", title: "Research"}
+  - {file: "README.md", title: "More"}
   - {title: "GitHub", url: "https://github.com/JiasuWang"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
