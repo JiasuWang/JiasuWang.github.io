@@ -7,13 +7,6 @@ I am currently working on problems related to quantum signal processing, which c
 circuit for performing a wide range of computational tasks on quantum computers.
 
 
-### Contact
-
-- email: jiasu@berkeley.edu
-- office: 1064 Evans hall
-- office hour: Tuesday 2-4pm or by appointment
-
-
 ## Publication and Preprints
 
 - Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation, submitted
