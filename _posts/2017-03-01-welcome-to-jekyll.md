@@ -32,7 +32,7 @@ Hello! I am Jiasu Wang, a PhD student in Applied Mathematics at University of Ca
 
 ## Screenshots
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
+![Me](fig/julia1.jpg)
 
 ![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
 
