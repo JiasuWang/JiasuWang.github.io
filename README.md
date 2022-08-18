@@ -6,7 +6,7 @@ layout: page
 
 ## About Me
 
-Hello! I am Jiasu Wang, a PhD student in Applied Mathematics at University of California, Berkeley. I got my BS in Mathematics and Applied Mathematics from University of Science and Technology of China (USTC) in 2019. My supvisor is Prof.[Lin Lin](https://math.berkeley.edu/~linlin/)
+Hello! I am Jiasu Wang, a PhD student in Applied Mathematics at University of California, Berkeley. I got my BS in Mathematics and Applied Mathematics from University of Science and Technology of China (USTC) in 2019. My supvisor is Prof. [Lin Lin](https://math.berkeley.edu/~linlin/)
 
 ## Contact
 
