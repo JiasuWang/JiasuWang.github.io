@@ -18,7 +18,7 @@ Hello! I am Jiasu Wang, a PhD student in Applied Mathematics at University of Ca
 
 - Graduate Student Instructor (Math 1A: Calculus), UC Berkeley
   - Aug. 2020 - Dec. 2020
-- Teaching Assistant(Linear Algebra I), USTC
+- Teaching Assistant (Linear Algebra I), USTC
   - Feb. 2019 - Jun. 2019
 - Teaching Assistant (Differential Equation I), USTC
   - Sep. 2017 - Jan. 2018
