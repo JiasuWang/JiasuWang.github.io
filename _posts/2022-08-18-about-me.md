@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 ---
 
-Hello! I am Jiasu Wang, a PhD student in Applied Mathematics at University of California, Berkeley. My supvisor is Prof.[Lin Lin](https://math.berkeley.edu/~linlin/). My research interest lies broadly in quantum algorithms, numerical analysis and optimization.
+Hello! I am Jiasu Wang, a PhD student in Applied Mathematics at University of California, Berkeley. My supvisor is Prof. [Lin Lin](https://math.berkeley.edu/~linlin/). My research interest lies broadly in quantum algorithms, numerical analysis and optimization.
 
 
 ## Contact
