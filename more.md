@@ -8,7 +8,7 @@ Here is more about my life besides research:
 
 ## Julia 
 
-Julia is a femal ragdoll cat.  She will be 2 years old in September. She gave me great support and comfort during the COVID-19 pandemic!
+Julia is a ragdoll cat. She will be 2 years old in September. She gave me great support and comfort during the COVID-19 pandemic!
 
 ![Julia](/fig/julia1.jpg)
 
