@@ -7,6 +7,13 @@ I am currently working on problems related to quantum signal processing, which c
 circuit for performing a wide range of computational tasks on quantum computers.
 
 
+### Contact
+
+- email: jiasu@berkeley.edu
+- office: 1064 Evans hall
+- office hour: Tuesday 2-4pm or by appointment
+
+
 ## Publication and Preprints
 
 - Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation, submitted
@@ -24,7 +31,7 @@ circuit for performing a wide range of computational tasks on quantum computers.
 ## Presentations
 
 - SIAM-LA21 minisymposium “Quantum Numerical Linear Algebra”, May 2021
-  - Title: Energy Landscape of Optimizing Symmetric PhaseFactors in Quantum Signal Processing, talk 
+  - Title: Energy Landscape of Optimizing Symmetric PhaseFactors in Quantum Signal Processing, [talk](/file/siam_mini_symposium.pdf)
 
 - Quantum information processing (QIP), March 2022
-  - Title: On the energy landscape of symmetric quantum signal processing, poster
+  - Title: On the energy landscape of symmetric quantum signal processing, [poster](/file/QIP_poster.pdf)
