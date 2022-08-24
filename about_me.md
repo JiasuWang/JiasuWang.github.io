@@ -23,6 +23,8 @@ Hello! I am Jiasu Wang, a PhD student in Applied Mathematics at University of Ca
 
 ## Teaching Experience
 
+In 2022 Fall semester, I am a GSI for [Math 54](https://lin-lin.github.io/MATH54/) (Linear algebra & Differential equations).
+
 - Graduate Student Instructor (Math 1A: Calculus), UC Berkeley
   - Aug. 2020 - Dec. 2020
 - Teaching Assistant (Linear Algebra I), USTC
