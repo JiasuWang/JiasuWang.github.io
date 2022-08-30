@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "about_me.md", title: "About"}
   - {file: "research.md", title: "Research"}
+  - {file: "teaching.md", title: "Teaching"}
   - {file: "more.md", title: "More"}
   - {title: "GitHub", url: "https://github.com/JiasuWang"}
 
