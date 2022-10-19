@@ -18,5 +18,6 @@ In 2022 Fall semester, I am a GSI for [Math 54](https://lin-lin.github.io/MATH54
 - Sep. 27  [handout8](/file/handout8.pdf) 
 - Sep. 29  [handout10](/file/handout10.pdf) [quiz4](/file/quiz4.pdf) 
 - Oct.4  [handout11](/file/handout11.pdf)
-- Oct.6  [handout12](/file/handout12.pdf) [quiz5](/file/quiz3.pdf) 
-- [handout13](/file/handout13.pdf)
+- Oct.6  [handout12](/file/handout12.pdf) [quiz5](/file/quiz5.pdf) 
+- Oct.13 [handout13](/file/handout13.pdf) [quiz6](/file/quiz6.pdf) 
+- Oct.18 [handout14](/file/handout14.pdf)
