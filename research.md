@@ -18,7 +18,7 @@ circuit for performing a wide range of computational tasks on quantum computers.
   - Dong An, Di Fang, Stephen Jordan, Jin-Peng Liu, Guang Hao Low, Jiasu Wang
 
 - On the energy landscape of symmetric quantum signal processing, submitted
-  - [arXiv:2110.04993](https://arxiv.org/abs/2110.04993)
+  - [Quantum 6, 850 (2022)](https://quantum-journal.org/papers/q-2022-11-03-850/)
   - Jiasu Wang, Yulong Dong, Lin Lin
 
 - Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance, Quantum 
