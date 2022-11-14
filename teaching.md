@@ -30,5 +30,5 @@ In 2022 Fall semester, I am a GSI for [Math 54](https://lin-lin.github.io/MATH54
 - Nov.10 [handout21](/file/handout21.pdf) [handout21_solution](/file/handout21_sol.pdf) [quiz9](/file/quiz9.pdf) [quiz9_solution](/file/quiz9_sol.pdf) 
 
 ### Study recourse: 
-- [Linear System of Differential Equations](/file/handout22.pdf) [solution](/file/handout22_sol.pdf)
-- [Constant Coefficient Linear Systems](/file/handout23.pdf) [solution](/file/handout23_sol.pdf)
+- [Linear System of Differential Equations](/file/handout22.pdf), [solution](/file/handout22_sol.pdf)
+- [Constant Coefficient Linear Systems](/file/handout23.pdf), [solution](/file/handout23_sol.pdf)
